@@ -1,4 +1,4 @@
-#nDEX 
+nDEX 
 Next generation decentralize exchange for ethereum based ERC tokens.
 Based on Ethereum blockchain.
 
