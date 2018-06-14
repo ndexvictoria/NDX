@@ -1,4 +1,4 @@
-pragma solidity ^0.4.16;
+pragma solidity ^0.4.21;
 
 /** This contract is build for nDEX - Next Generation Decentralize Exchange Ticker : NDX . Any one can use this code to make contract is 
   not subject to copyright law */
