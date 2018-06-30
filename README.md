@@ -27,7 +27,7 @@ After conducting donation period, if everything goes well we will list our token
  nDEX
  Next generation decentralized ERC20 token exchange
  Palm Street, Victoria, Seychelles
-
+ Visit: https://ndexnetwork.com
  Telegram channel: https://t.me/ndexofficialchannel
  Reddit: https://www.reddit.com/user/nDEXofficial/
  GitHub: https://gist.github.com/ndexvictoria
